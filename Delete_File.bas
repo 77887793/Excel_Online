@@ -35,6 +35,6 @@ Sub SelfDeleteWorkbook()
     End If
 
     ' Close the workbook without saving changes
-    ThisWorkbook.Close SaveChanges:=False
+    'ThisWorkbook.Close SaveChanges:=False
 End Sub
 
